@@ -86,6 +86,8 @@ A TypeScript-based implementation of a decentralized exchange (DEX) for Bitcoin 
 - Implements recursive algorithm for larger distributions
 - Integrates with spent UTXO reference system
 - Optimized for gas efficiency
+  
+![image](https://github.com/user-attachments/assets/2c759c06-abbb-4347-9202-d2a4aa2eb641)
 
 ### 3. High Concurrency Management
 
